@@ -1,0 +1,35 @@
+.parent{
+    height: 400px;
+    width: 43%;
+    /* background-color: grey; */
+    position: relative;
+    left: 400px;
+    top: 600px;
+    
+
+}
+
+.col{
+    height: 200px;
+    width: 100px;
+    border: 2px black solid;
+    position: absolute;
+    top: 100px;
+}
+
+.col-1{
+    background-color: aqua;
+    left: 50px;
+}
+.col-2{
+    background-color: chartreuse;
+    left: 200px;
+}
+.col-3{
+    background-color: dodgerblue;
+    left: 350px;
+}
+.col-4{
+    background-color: rebeccapurple;
+    left: 500px;
+}

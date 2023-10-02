@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cormorant+Garamond:wght@300&family=Italianno&display=swap');
+h1{
+    color:white;
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    background-color: black;
+    height: 85px;
+    width: 101%;
+    margin-left: -8px;
+    margin-top: 22px;
+}
+body{
+    /* background-image: url(./moviebackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color:black;
+
+}
+.col{
+    height: 525px;
+    width: 16%;
+    border: rgb(212, 212, 67) 2px solid;
+    background-color:rgba(73, 69, 69, 0.646);
+    float: left;
+    color: white;
+    margin-left: 48px;
+    margin-top: 90px;
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+.col:hover{
+    box-shadow: 0 4px 8px 0 rgba(162, 153, 153, 0.959), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+img{
+    width: 100%;
+    height: 240px;
+}
+h4{
+    font-family: 'Arvo', serif;
+font-family: 'Italianno', cursive;
+color:white;
+text-align: center;
+}
+p{
+    color:white;
+    text-align: left;
+    font-family: 'Cormorant Garamond', serif;
+}
+button{
+    height: 35px;
+    width: 80px;
+     text-align: center; 
+    margin-left: 48px; 
+    border-radius: 20px;
+    color: white;
+    background-color:black;
+}
+button:hover{
+    background-color:yellow;
+    color: black;
+    box-shadow: white;
+
+}
+i{
+    padding: 13px;
+    color: white;
+    background-color: black;
+    width: 214px;
+    text-align: center;
+}
+h5{
+    margin-left: 1200px;
+    margin-top: -97px;
+}
+.l{
+    text-align: center;
+    color: yellow;
+}
+#l1{
+    color: white;
+}
+#l2{
+    color: white;
+}
+#l3{
+    color: white;
+}
+#l4{
+    color: white;
+}
+#l5{
+    color: white;
+}
